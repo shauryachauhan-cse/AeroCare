@@ -92,7 +92,7 @@ The preparation rules are incomplete, stored examples, last reviewed on 5 Novemb
 
 ## AI assistance disclosure
 
-ChatGPT assisted with brainstorming, implementation, styling, documentation and debugging. The team is responsible for reviewing, testing and explaining the submitted work, and for following the event's AI-use rules. The running prototype does not call an AI model.
+ChatGPT assisted with brainstorming, implementation, styling, documentation and debugging. I am responsible for reviewing, testing and explaining the submitted work. The running prototype does not call an AI model.
 
 ## Future scope
 
